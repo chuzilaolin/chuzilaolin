@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 * 📞 Feel free to reach out to me at chuzilaolin@163.com.
 
 <div>
-  <img src="img/programmer.gif" style="margin-right: 20px;" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   <img src="https://github-readme-stats.vercel.app/api?username=chuzilaolin&count_private=true&theme=dark&show_icons=true" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+  <img src="img/programmer.gif" style="margin-right: 20px;" />
 </div>
 
 
