@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * 🥰 Search engines, Databases, Distributed Systems.
 * 💻 Coding in C++, Java.
 * 🌤️ Currently working in Wuhan as a backend developer.
-* 📞 contact me at code@tanweime.com, wechat: tanweime
+* 📞 Feel free to reach out to me at chuzilaolin@163.com.
 
 <div>
   <img src="img/programmer.gif" style="margin-right: 20px;" />
