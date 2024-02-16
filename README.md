@@ -26,6 +26,7 @@ Here are some ideas to get you started:
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
    -->
   <img src="img/programmer.gif" style="margin-right: 20px;" />
+  <img src="img/basketball.gif" style="margin-right: 20px;" />
 </div>
 
 
