@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-* 🥰 Search engines, Databases, Distributed Systems.
-* 💻 Coding in C++, Java.
-* 🌤️ Currently working in Wuhan as a backend developer.
-* 📞 Feel free to reach out to me at chuzilaolin@163.com.
+- ♥️ Passionate about search engines, databases, and distributed systems.
+- 🔨 Proficient in coding with C/C++ and Java.
+- 👨🏻‍💻 Currently employed as a backend developer in Wuhan.
+- 📫  Feel free to reach out to me at chuzilaolin@163.com if you have any questions.
 <br/>
 
 <div>
