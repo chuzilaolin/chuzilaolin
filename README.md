@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 ### About me
 
 - ♥️ Passionate about search engines, databases, and distributed systems.
-- 🔨 Proficient in coding with C/C++ and Java.
+- 🔨 Skilled in C/C++ development on Linux systems.
 - 👨🏻‍💻 Currently employed as a backend developer in Wuhan.
-- 📫  Feel free to reach out to me at chuzilaolin@163.com if you have any questions.
+- 📫 Feel free to reach out to me at chuzilaolin@163.com if you have any questions.
+- 📝 By the way, you can also find me through my CSDN blog: https://blog.csdn.net/weixin_44398687
 <br/>
 
 <div>
