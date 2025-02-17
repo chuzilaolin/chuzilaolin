@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-- ♥️ Passionate about search engines, databases, and distributed systems.
-- 🔨 Skilled in C/C++ and Java development on Linux systems.
-- 👨🏻‍💻 Currently employed as a backend developer in ChengDu. 
-- 📫 Feel free to reach out to me at chuzilaolin@163.com if you have any questions.
-- 📝 By the way, you can also find me through my CSDN blog: https://blog.csdn.net/weixin_44398687
+- ♥️ I’m passionate about databases and distributed systems.
+- 🔨 Skilled in C/C++ and Rust development on Linux.
+- 👨🏻‍💻 Currently working as a backend developer in Chengdu.
+- 📫 Feel free to reach out at chuzilaolin@163.com with any questions.
+- 📝 You can also find me on my CSDN blog: https://blog.csdn.net/weixin_44398687.
 <br/>
 
 <div>
