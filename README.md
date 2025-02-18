@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### About me
 
-- ♥️ I’m passionate about databases and distributed systems.
+- ♥️ I’m interested in high-performance and distributed systems.
 - 🔨 Skilled in C/C++ and Rust development on Linux.
 - 👨🏻‍💻 Currently working as a backend developer in Chengdu.
 - 📫 Feel free to reach out at chuzilaolin@163.com with any questions.
