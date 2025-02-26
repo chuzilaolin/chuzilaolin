@@ -4,7 +4,7 @@
 <p>🔨 Skilled in C/C++ and Go development on Linux.</p>
 <p>👨🏻‍💻 Currently working on customized development based on Chromium in China.</p>
 <p>📫 Feel free to reach out on <a href="https://t.me/chuzilaolin" target="_blank">Telegram</a> if you have any questions.</p>
-<p>📝 You can also find me on my CSDN blog: <a href="https://blog.csdn.net/weixin_44398687" target="_blank">CSDN Blog</a>.</p>
+<p>📝 You can also find me on my wordpress blog: <a href="https://example.com" target="_blank">WordPress</a>.</p>
 <p>🧨 Wish for world peace without war!</p>
 
 <br/>
