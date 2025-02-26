@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 Currently working on customized development based on Chromium in China.
 - 📫 Feel free to reach out on [Telegram](https://t.me/chuzilaolin) if you have any questions.
 - 📝 You can also find me on my CSDN blog: https://blog.csdn.net/weixin_44398687.
-- 🧨 I wish for world peace without war!
+- 🧨 Wish for world peace without war!
 <br/>
 
 <div>
