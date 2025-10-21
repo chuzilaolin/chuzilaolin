@@ -1,11 +1,10 @@
 ### About me
 
-<p>❤️ I am interested in the field of high-performance, distributed systems, and security.</p>
-<p>🔨 Skilled in C/C++ and Go development on Linux.</p>
-<p>👨🏻‍💻 Currently working on customized development based on Chromium in China.</p>
+<p>❤️ I am passionate about high-performance, distributed systems.</p>
+<p>🔨 Proficient in C/C++ and Go development on Linux.</p>
+<p>👨🏻‍💻 Currently exploring new opportunities and projects, with a focus on low-level systems development.</p>
 <p>📫 Feel free to reach out on <a href="https://t.me/chuzilaolin" target="_blank">Telegram</a> if you have any questions.</p>
-<p>📝 You can also find me on my wordpress blog: <a href="https://example.com" target="_blank">WordPress</a>.</p>
-<p>🧨 Wish for world peace without war!</p>
+<p>📝 You can also find me on my <a href="https://example.com" target="_blank">blog</a>.</p>
 
 <br/>
 
